@@ -3,7 +3,7 @@
 #   
 #       Combined Classifier:
 #           K-Nearest Neighbor (KNN)
-#           Plugin Linear Discriminant Function (LDF)
+#           Linear Discriminant Function (LDF)
 #           Niave Bayes (NB) - with weight function
 #
 # Note: this code is available on GitHub 

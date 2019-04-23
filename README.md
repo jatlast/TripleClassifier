@@ -1,7 +1,7 @@
 # TripleClassifier
 ```
 Combined Classifier
-    Plugin Linear Discriminant Function
+    Linear Discriminant Function
     K-Nearest Neighbor
-    Naive Bayes (with weigh function)
+    Naive Bayes (with weight function)
 ```
